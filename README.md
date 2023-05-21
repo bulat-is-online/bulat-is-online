@@ -1,6 +1,5 @@
 ## Hello World 👋
-I am a Junior Back-end Developer from Kazan
-- 🔭 Working currently as Bysiness/System Analyst at Epam
+I am a Bysiness/System Analyst at Epam
 - 🌱 Learning Golang
 ## Connect with me
 <br>
