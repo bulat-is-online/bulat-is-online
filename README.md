@@ -1,5 +1,6 @@
 ## Hello World 👋
-Currently am a Bysiness/System Analyst at Epam
+Currently am a Senior Business/System Analyst
+- 🌱 Currently looking for open positions
 - 🌱  Want to become Product Owner
 ## Connect with me
 <br>
